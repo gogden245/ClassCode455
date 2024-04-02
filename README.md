@@ -1,0 +1,1 @@
+This repository is meant to show some of what I have learned and practiced about Machine Learning and modeling/pipelines. Each file with a date is a practice or a new concept learned. There are projects where I implement these skills and lots of datasets that I've tested my knowledge on.
